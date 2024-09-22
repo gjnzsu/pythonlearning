@@ -1,9 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="wWAlkr_s6Ui5iU-IBkBU">
-    <mxGraphModel>
+    <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Urxsc29PQgbZuumfZ-72-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Urxsc29PQgbZuumfZ-72-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Urxsc29PQgbZuumfZ-72-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" target="Urxsc29PQgbZuumfZ-72-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="261" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Urxsc29PQgbZuumfZ-72-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.011;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="Urxsc29PQgbZuumfZ-72-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
